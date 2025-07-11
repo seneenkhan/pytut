@@ -1,0 +1,17 @@
+friends = ['Dan', 'Kim','Jack']
+print(friends)
+print(friends[2])
+lucky_nos = [2,4,9,8,12,90]
+friends.extend(lucky_nos)
+friends.append('jon')
+friends.remove('jon')
+friends.insert(0,'jon')
+friends.pop()
+print(friends.index("Kim"))
+lucky_nos.sort()
+print(lucky_nos)
+lucky_nos.reverse()
+print(lucky_nos)
+friends2 = friends.copy()
+print(friends2)
+print(friends)
