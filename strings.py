@@ -1,0 +1,10 @@
+print("Giraffe\nAcademy")
+phrase = "Lol"
+print(phrase.upper())
+print(phrase.isupper())
+print(phrase.lower())
+print(len(phrase))
+print(phrase[1])
+print(phrase.index("l"))
+print(phrase.count('l'))
+print(phrase.replace("Lol","mom"))
