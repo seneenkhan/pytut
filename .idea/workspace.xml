@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="943edb1e-db95-4107-9cbb-4d7d342f871e" name="Changes" comment="1st prog">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="943edb1e-db95-4107-9cbb-4d7d342f871e" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
+      <change afterPath="$PROJECT_DIR$/exponent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +28,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "seneenkhan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/seneenkhan/pytut.git",
+    "accountId": "94594bf1-8cb6-4dc2-a684-95a47872145e"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/guessgame.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -37,7 +55,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
+    "Notification.DoNotAsk-Vcs Notifications": "true",
     "Python.app.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.exponent.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.guessgame.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.madlibs.executor": "Run",
+    "Python.numbers.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.tuples.executor": "Run",
+    "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -64,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752225665337</updated>
-      <workItem from="1752225666586" duration="1070000" />
+      <workItem from="1752225666586" duration="17298000" />
     </task>
     <task id="LOCAL-00001" summary="1st prog">
       <option name="closed" value="true" />
@@ -74,7 +107,175 @@
       <option name="project" value="LOCAL" />
       <updated>1752227293540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st prog">
+      <option name="closed" value="true" />
+      <created>1752227305815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752227305815</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st prog">
+      <option name="closed" value="true" />
+      <created>1752227413535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752227413535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1st prog">
+      <option name="closed" value="true" />
+      <created>1752227513263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752227513263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1st prog">
+      <option name="closed" value="true" />
+      <created>1752227940701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752227940701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2nd program">
+      <option name="closed" value="true" />
+      <created>1752227968996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752227968996</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3rd program">
+      <option name="closed" value="true" />
+      <created>1752233052067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752233052067</updated>
+    </task>
+    <task id="LOCAL-00008" summary="4th program">
+      <option name="closed" value="true" />
+      <created>1752233581805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752233581805</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5th program">
+      <option name="closed" value="true" />
+      <created>1752234612731</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752234612731</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5th program">
+      <option name="closed" value="true" />
+      <created>1752234645525</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752234645525</updated>
+    </task>
+    <task id="LOCAL-00011" summary="6th program">
+      <option name="closed" value="true" />
+      <created>1752235642421</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752235642421</updated>
+    </task>
+    <task id="LOCAL-00012" summary="7th program">
+      <option name="closed" value="true" />
+      <created>1752235977078</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752235977078</updated>
+    </task>
+    <task id="LOCAL-00013" summary="8th program">
+      <option name="closed" value="true" />
+      <created>1752240970346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752240970346</updated>
+    </task>
+    <task id="LOCAL-00014" summary="9th program">
+      <option name="closed" value="true" />
+      <created>1752241257694</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752241257694</updated>
+    </task>
+    <task id="LOCAL-00015" summary="10th program">
+      <option name="closed" value="true" />
+      <created>1752242093617</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752242093617</updated>
+    </task>
+    <task id="LOCAL-00016" summary="11th program">
+      <option name="closed" value="true" />
+      <created>1752344825323</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1752344825323</updated>
+    </task>
+    <task id="LOCAL-00017" summary="12th program">
+      <option name="closed" value="true" />
+      <created>1752403242720</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1752403242720</updated>
+    </task>
+    <task id="LOCAL-00018" summary="12th program">
+      <option name="closed" value="true" />
+      <created>1752403956407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1752403956407</updated>
+    </task>
+    <task id="LOCAL-00019" summary="12th program">
+      <option name="closed" value="true" />
+      <created>1752403965963</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1752403965964</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
+      <option name="closed" value="true" />
+      <created>1752404018001</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1752404018001</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
+      <option name="closed" value="true" />
+      <created>1752404599434</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1752404599434</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
+      <option name="closed" value="true" />
+      <created>1752404636129</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1752404636129</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +283,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st prog" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st prog" />
+    <MESSAGE value="2nd program" />
+    <MESSAGE value="3rd program" />
+    <MESSAGE value="4th program" />
+    <MESSAGE value="5th program" />
+    <MESSAGE value="6th program" />
+    <MESSAGE value="7th program" />
+    <MESSAGE value="8th program" />
+    <MESSAGE value="9th program" />
+    <MESSAGE value="10th program" />
+    <MESSAGE value="11th program" />
+    <MESSAGE value="12th program" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nada$functions.coverage" NAME="functions Coverage Results" MODIFIED="1752241887726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1752408193567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1752404578979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$strings.coverage" NAME="strings Coverage Results" MODIFIED="1752232857367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$madlibs.coverage" NAME="madlibs Coverage Results" MODIFIED="1752235906400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$variables.coverage" NAME="variables Coverage Results" MODIFIED="1752227926426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1752233492266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1752235566465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$input.coverage" NAME="input Coverage Results" MODIFIED="1752234521393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1752344789971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$guessgame.coverage" NAME="guessgame Coverage Results" MODIFIED="1752403905256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$app.coverage" NAME="app Coverage Results" MODIFIED="1752227249476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$lists.coverage" NAME="lists Coverage Results" MODIFIED="1752240901474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1752241232925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
