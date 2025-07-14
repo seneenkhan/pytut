@@ -1,4 +1,4 @@
 emp_file = open("employee", "r")
-emp_w= emp_file.read()
+for employee in emp_file.readlines():
+    print(employee)
 emp_text = emp_file.close()
-print(emp_w)
