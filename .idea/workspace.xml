@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="943edb1e-db95-4107-9cbb-4d7d342f871e" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
-      <change afterPath="$PROJECT_DIR$/exponent.py" afterDir="false" />
+    <list default="true" id="943edb1e-db95-4107-9cbb-4d7d342f871e" name="Changes" comment="19th program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee" beforeDir="false" afterPath="$PROJECT_DIR$/employee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translater.py" beforeDir="false" afterPath="$PROJECT_DIR$/translater.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,7 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/catch.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/guessgame.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -57,8 +61,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
     "Notification.DoNotAsk-Vcs Notifications": "true",
+    "Python.2dlists.executor": "Run",
+    "Python.Question.executor": "Run",
     "Python.app.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.catch.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.exponent.executor": "Run",
     "Python.forloop.executor": "Run",
@@ -68,7 +75,11 @@
     "Python.lists.executor": "Run",
     "Python.madlibs.executor": "Run",
     "Python.numbers.executor": "Run",
+    "Python.object.executor": "Run",
+    "Python.prompts.executor": "Run",
+    "Python.read.executor": "Run",
     "Python.strings.executor": "Run",
+    "Python.translater.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752225665337</updated>
-      <workItem from="1752225666586" duration="17298000" />
+      <workItem from="1752225666586" duration="34731000" />
     </task>
     <task id="LOCAL-00001" summary="1st prog">
       <option name="closed" value="true" />
@@ -275,7 +286,95 @@
       <option name="project" value="LOCAL" />
       <updated>1752404636129</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py">
+      <option name="closed" value="true" />
+      <created>1752408398743</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1752408398744</updated>
+    </task>
+    <task id="LOCAL-00024" summary="14th program">
+      <option name="closed" value="true" />
+      <created>1752408848318</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1752408848318</updated>
+    </task>
+    <task id="LOCAL-00025" summary="15th program">
+      <option name="closed" value="true" />
+      <created>1752411762695</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1752411762695</updated>
+    </task>
+    <task id="LOCAL-00026" summary="16th program">
+      <option name="closed" value="true" />
+      <created>1752412831356</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1752412831356</updated>
+    </task>
+    <task id="LOCAL-00027" summary="text file">
+      <option name="closed" value="true" />
+      <created>1752517273131</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1752517273131</updated>
+    </task>
+    <task id="LOCAL-00028" summary="17th program">
+      <option name="closed" value="true" />
+      <created>1752517778987</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1752517778987</updated>
+    </task>
+    <task id="LOCAL-00029" summary="17th program">
+      <option name="closed" value="true" />
+      <created>1752517841863</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1752517841863</updated>
+    </task>
+    <task id="LOCAL-00030" summary="17th program">
+      <option name="closed" value="true" />
+      <created>1752517910696</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1752517910696</updated>
+    </task>
+    <task id="LOCAL-00031" summary="17th program">
+      <option name="closed" value="true" />
+      <created>1752518198800</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1752518198800</updated>
+    </task>
+    <task id="LOCAL-00032" summary="18th program">
+      <option name="closed" value="true" />
+      <created>1752570021150</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1752570021150</updated>
+    </task>
+    <task id="LOCAL-00033" summary="19th program">
+      <option name="closed" value="true" />
+      <created>1752570056591</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1752570056591</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,22 +394,36 @@
     <MESSAGE value="11th program" />
     <MESSAGE value="12th program" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;guessgame.py" />
+    <MESSAGE value="14th program" />
+    <MESSAGE value="15th program" />
+    <MESSAGE value="16th program" />
+    <MESSAGE value="text file" />
+    <MESSAGE value="17th program" />
+    <MESSAGE value="18th program" />
+    <MESSAGE value="19th program" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/nada$functions.coverage" NAME="functions Coverage Results" MODIFIED="1752241887726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/nada$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1752408193567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1752408302471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1752404578979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$prompts.coverage" NAME="prompts Coverage Results" MODIFIED="1752569992250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$strings.coverage" NAME="strings Coverage Results" MODIFIED="1752232857367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$madlibs.coverage" NAME="madlibs Coverage Results" MODIFIED="1752235906400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$variables.coverage" NAME="variables Coverage Results" MODIFIED="1752227926426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1752233492266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1752235566465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$input.coverage" NAME="input Coverage Results" MODIFIED="1752234521393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$2dlists.coverage" NAME="2dlists Coverage Results" MODIFIED="1752408791610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$Question.coverage" NAME="Question Coverage Results" MODIFIED="1752569864297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1752344789971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$guessgame.coverage" NAME="guessgame Coverage Results" MODIFIED="1752403905256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$app.coverage" NAME="app Coverage Results" MODIFIED="1752227249476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nada$lists.coverage" NAME="lists Coverage Results" MODIFIED="1752240901474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$catch.coverage" NAME="catch Coverage Results" MODIFIED="1752412761554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$object.coverage" NAME="object Coverage Results" MODIFIED="1752523768392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/nada$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1752241232925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$read.coverage" NAME="read Coverage Results" MODIFIED="1752518624145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nada$translater.coverage" NAME="translater Coverage Results" MODIFIED="1752411738879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

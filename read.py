@@ -1,4 +1,3 @@
-emp_file = open("employee", "r")
-for employee in emp_file.readlines():
-    print(employee)
+emp_file = open("employee1", "a")
+emp_file.write("Toby Painter")
 emp_text = emp_file.close()
